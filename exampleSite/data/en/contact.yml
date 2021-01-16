@@ -11,21 +11,3 @@ contact:
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: info80631@gmail.com"
 
-
-<form
-  action="https://formspree.io/f/xpzokvbk"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
-</form>
