@@ -144,4 +144,4 @@ enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-youtube"
-link = "#"
+link = "https://www.youtube.com/channel/UC3AmvMs0DT-4dypIaVzBEbw"
