@@ -1,5 +1,5 @@
 baseURL = "https://123456789jitsi123456789.netlify.app"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
