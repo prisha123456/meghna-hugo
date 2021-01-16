@@ -15,7 +15,7 @@ There are a lot of Linux YouTube channels that have literally doubled their subs
 
 So lets get into it!!!
 
-## _1)_Mainline Arch
+## 1)Mainline Arch
 
 Arch has always been this elitist ,cool guys only distro. But it really is not. It is not very tough to install if you have a good guide. I have my own guide on my [GitHub](https://github.com/aryas221/geniusawesome/blob/main/arch%20guide) which looks kind of bad. So I’m planning on making a tutorial on this website.
 
