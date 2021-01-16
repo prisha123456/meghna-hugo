@@ -18,29 +18,24 @@ pre = "#"
 url = "about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "portfolio"
-pre = "#"
-url = "portfolio"
-weight = 2
-[[Languages.en.menu.main]]
 name = "team"
 pre = "#"
 url = "team"
-weight = 3
+weight = 2
 [[Languages.en.menu.main]]
 name = "blog"
 pre = "#"
 url = "blog"
-weight = 4
+weight = 3
 [[Languages.en.menu.main]]
 name = "contact"
 pre = "#"
 url = "contact"
-weight = 5
+weight = 4
 
 [params]
 author = "Genius Infomedia"
-description = "Responsive Multipurpose Parallax Hugo Template"
+description = "A Site"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
