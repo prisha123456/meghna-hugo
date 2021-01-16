@@ -14,8 +14,6 @@
   translation: All
 - id: about
   translation: About Us
-- id: portfolio
-  translation: Portfolio
 - id: team
   translation: Team
 - id: blog
