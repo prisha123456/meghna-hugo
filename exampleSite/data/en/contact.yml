@@ -15,8 +15,8 @@ contact:
   # Contact form
   contact_form:
     enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
+    form_action : "https://formspree.io/f/xpzokvbk" #contact form works with https://formspree.io
+    name : "Your Name"https://formspree.io/f/xpzokvbk
     email : "Your Email"
     subject : "Subject"
     message : "Message"
