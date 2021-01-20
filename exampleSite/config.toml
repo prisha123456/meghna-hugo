@@ -1,11 +1,11 @@
-baseURL = "https://123456789jitsi123456789.netlify.app"
+baseURL = "https://geniusinfomedia.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "Genius Infomedia Backup Site"
+title = "Genius Infomedia's Official Site"
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
@@ -35,7 +35,7 @@ weight = 4
 
 [params]
 author = "Genius Infomedia"
-description = "A Site"
+description = "Great Site"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
