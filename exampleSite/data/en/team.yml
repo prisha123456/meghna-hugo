@@ -6,13 +6,15 @@ team:
     # team member loop
     - name : Arya K
       designation : Founder
+      content : I make Content Mostly About Linux And FOSS 
               
     # team member loop
     - name : N3MSIS
       designation : Co-Founder
+      content : I edit the Videos That go onto YouTube.
 
     # team member loop
 
     - name : Keshav K
-
       designation : Co-Founder
+      content : I make Content Hardware
