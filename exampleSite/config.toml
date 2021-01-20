@@ -28,10 +28,9 @@ pre = "#"
 url = "blog"
 weight = 3
 [[Languages.en.menu.main]]
-name = "contact"
-pre = "#"
-url = "contact"
-weight = 4
+name = "Youtube"
+url = "https://www.youtube.com/channel/UC3AmvMs0DT-4dypIaVzBEbw"
+weight = 5
 
 [params]
 author = "Genius Infomedia"
